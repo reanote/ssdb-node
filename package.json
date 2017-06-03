@@ -8,7 +8,7 @@
   "description": "ssdb nodejs client library, ssdb is a fast nosql database, an alternative to redis.",
   "author": " <reanote@yahoo.com>",
   "keywords": ["ssdb", "client"],
-  "main": "./lib/ssdb",
+  "main": "./lib/client.js",
   "license": "",
   "engines": {
     "node": ">= 6.9.5"
