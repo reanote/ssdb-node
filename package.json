@@ -1,0 +1,19 @@
+{
+  "name": "ssdb-client",
+  "version": "2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/reanote/ssdb-client.git"
+  },
+  "description": "ssdb nodejs client library, ssdb is a fast nosql database, an alternative to redis.",
+  "author": " <reanote@yahoo.com>",
+  "keywords": ["ssdb", "client"],
+  "main": "./lib/ssdb",
+  "license": "",
+  "engines": {
+    "node": ">= 6.9.5"
+  },
+  "dependencies": {
+    "create-error.js": "~0.0.5"
+  }
+}
