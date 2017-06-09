@@ -4,6 +4,10 @@ SSDB NodeJS 客户端
 1. 基于https://github.com/eleme/node-ssdb 改写；
 2. 主要是修复了上述客户端的请求和应答对应错误的问题；
 
+```shell
+npm install ssdb-node --save
+```
+
 Example
 
 ```js
