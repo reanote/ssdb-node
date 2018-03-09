@@ -15,7 +15,7 @@ Example
 
 'use strict';
 const co = require('co');
-const ssdb = require("./lib/client");
+const ssdb = require("ssdb-node");
 const options = {
     host: '127.0.0.1',
     port: 8888,
